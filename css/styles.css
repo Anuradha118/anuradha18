@@ -1,0 +1,25 @@
+.h3{
+    font-family:Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font: weight 1000px;;
+    text-transform:capitalize;
+}
+
+.desgn{
+    color: rgb(93, 131, 11);
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+.myFont{
+    /* font-family: 'Times New Roman', Times, serif; */
+    color: rgb(93, 131, 11);
+    font-weight: bold;
+    margin-left: 15px;
+}
+.mystyle{
+    color: rgb(93, 131, 11);
+}
+.align{
+    margin-left: 20px;
+}
+section.h4{
+    text-transform:capitalize;
+}
