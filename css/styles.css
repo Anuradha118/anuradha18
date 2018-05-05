@@ -13,7 +13,9 @@
 section.h4{
     text-transform:capitalize;
 }
-
+.projectimg{
+    width: 50vmax;
+}
 #iheader {
     position: relative;
     width: 100%;
